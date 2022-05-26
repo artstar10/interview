@@ -65,7 +65,7 @@ API no intuito de simular um sistema de banco
 
 > node ./dist/index.js
 
-<h3> Enpoints do projeto for Insomnia and Postman </h3>
+<h3> Endpoints do projeto for Insomnia and Postman </h3>
 
 ### 1. rota Criar uma conta;
 http://localhost:3000/users
@@ -82,7 +82,7 @@ http://localhost:3000/users/extrato
 
 <h3> :earth_americas: &nbsp;Request Collection: </h3> 
 
-[![GitHub SEU NOME](https://img.shields.io/github/followers/artstar10?label=follow&style=social)](inserir linke da collection aqui)
+[![GitHub SEU NOME](https://img.shields.io/badge/-a%20collection%20fica%20nesse%20caminho-333333?style=flat&logo=git)](https://github.com/artstar10/interview/blob/master/interview/request-collection)
 
 
 
