@@ -76,7 +76,7 @@ http://localhost:3000/users/saldo
 ### 4. Obter extracto de conta;
 http://localhost:3000/users/extrato
 
-<h3> Para testar os endpoints acima baixe a Collection no caminho abaixo e utilize no imsomnia ou postman </h3>
+<h3> Para testar os endpoints acima baixe a Collection no caminho abaixo e utilize no insomnia ou postman </h3>
 
 <br/>
 
