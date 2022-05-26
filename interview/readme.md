@@ -67,13 +67,13 @@ API no intuito de simular um sistema de banco
 
 <h3> Endpoints do projeto for Insomnia and Postman </h3>
 
-### 1. rota Criar uma conta;
+### 1. criar uma conta;
 http://localhost:3000/users
 ### rota de status
 http://localhost:3000/status
-### 3. rota Obter o saldo da conta;
+### 3. Obter o saldo da conta;
 http://localhost:3000/users/saldo
-### 4. rota Obter extrato de conta;
+### 4. Obter extracto de conta;
 http://localhost:3000/users/extrato
 
 <h3> Para testar os endpoints acima baixe a Collection no caminho abaixo e utilize no imsomnia ou postman </h3>
