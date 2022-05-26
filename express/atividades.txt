@@ -1,0 +1,17 @@
+1. O que é o Express?
+R: É um framework minimalista para Node.js, geralmente utilizado para o gerenciamento de rotas de API REST.
+2. Qual linguagem de programação é suportada em projetos Node.js?
+R: JavaScript e/ou TypeScript
+3. Qual é a principal vantagem do TypeScript em relação ao JavaScript?
+R: Adicionar tipagem estática ao JavaScript, que, originalmente, possui tipagem dinâmica
+4. O que é uma API?
+R: É uma interface computacional que expõem recursos de um determinado domínio.
+5. Com relação ao conceito de REST, marque a alternativa INCORRETA:
+R: REST é uma biblioteca JavaScript para criação de APIs em Node.js.
+6. Qual snippet de código representa as configurações iniciais de uma API REST com Express e Node.js (considere que o “express” já foi importado):
+R: const app = express();
+app.use(express.json());
+app.use(express.urlencoded({ extended: true }));
+7. Sobre o TypeScript, assinale a alternativa INCORRETA:
+R: É a linguagem de programação obrigatória em projetos Node.js.
+
