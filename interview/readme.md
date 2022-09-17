@@ -82,7 +82,9 @@ http://localhost:3000/users/extrato
 
 <h3> :earth_americas: &nbsp;Request Collection: </h3> 
 
-[![GitHub SEU NOME](https://img.shields.io/badge/-a%20collection%20fica%20nesse%20caminho-333333?style=flat&logo=git)](https://github.com/artstar10/interview/blob/master/interview/request-collection)
+[![GitHub SEU NOME](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)](https://github.com/artstar10/interview/blob/master/interview/request-collection)<br>
+
+![Badge em Desenvolvimento](https://img.shields.io/static/v1?label=STATUS&message=DONE&color=green&style=fat)
 
 
 
